@@ -1,0 +1,3 @@
+[submodule "modules/st7789_mpy"]
+	path = modules/st7789_mpy
+	url = git@github.com:edwios/st7789_mpy.git
