@@ -41,11 +41,12 @@ micropython/
 │   │   │   |   ├── mpconfigboard.h
 │   │   │   │   └── modules/
 │   │   │   │       ├── micropython.cmake
-│   │   │   │       └── st7789/
-│   │   │   │           ├── st7789.c
-│   │   │   │           ├── st7789.h
-│   │   │   │           ├── micropython.mk
-│   │   │   │           └── micropython.cmake
+│   │   │   │       └── st7789_mpy/
+|   │   │   │           └── st7789/
+│   │   │   │               ├── st7789.c
+│   │   │   │               ├── st7789.h
+│   │   │   │               ├── micropython.mk
+│   │   │   │               └── micropython.cmake
 ... 
 
 ```
